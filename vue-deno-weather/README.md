@@ -23,6 +23,8 @@ deno add npm:@mdi/font
 deno add npm:axios
 ```
 
-Cursor did good just converting MCP `weather.py` to Vuex equivalent (except for odd use of `const` for mutation names). It also successfully recommended and implemented geocoding API call so that US state codes can be converted to lat/long to retrieve weather forecast.
+Cursor did a great job converting [weather.py](https://github.com/modelcontextprotocol/quickstart-resources/blob/main/weather-server-python/weather.py) to Vuex (except for odd use of `const` for mutation names). 
+
+It also successfully recommended and implemented geocoding API call so that US state codes can be converted to lat/long to retrieve weather forecast.
 
 Styling was from "modern and minimalist" prompt.
