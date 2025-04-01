@@ -1,6 +1,8 @@
 # Vue 3 weather application
 Extends `vue-deno-simple` to display US state weather information using Cursor.
 
+![Screenshot of weather application](../assets/weather-app-screenshot.png "Application screenshot")
+
 Uses [Veutify](https://vuetifyjs.com), [Vuex](https://vuetifyjs.com/en/), [Vue Router](https://router.vuejs.org) and [axios](https://axios-http.com).
 
 # Commands
