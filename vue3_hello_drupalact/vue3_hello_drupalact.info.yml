@@ -1,0 +1,9 @@
+name: Vue 3 Hello DrupalACT
+machine_name: vue3-hello-drupalact
+type: pdb
+description: 'Vue 3 Hello World example for DrupalACT'
+category: Vue
+presentation: vue
+add_js:
+  footer:
+    'vue3-hello-drupalact.js': {}
