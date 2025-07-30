@@ -1,22 +1,22 @@
 <template>
   <VApp>
     <VMain>
-      <RouterView />
+       <WeatherDisplay/>
     </VMain>
   </VApp>
 </template>
 
 <script>
-import { RouterView } from 'vue-router';
 import { VApp, VMain } from 'vuetify/components';
+import WeatherDisplay from './components/WeatherDisplay.vue';
 
 export default {
   name: 'App',
   components: {
-    RouterView,
     VApp,
-    VMain
-  }
+    VMain,
+    WeatherDisplay
+  },
 }
 </script>
 

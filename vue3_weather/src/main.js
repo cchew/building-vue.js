@@ -8,6 +8,7 @@ const app = createApp(App)
 
 app.use(vuetify)
 app.use(store)
-app.use(router)
+// Removed for Drupal integration
+// app.use(router)
 
-app.mount('#app')
+app.mount('.vue3-weather')

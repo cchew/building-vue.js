@@ -1,0 +1,14 @@
+name: Vue 3 Weather
+core_version_requirement: ^11
+machine_name: vue3-weather
+type: pdb
+description: 'Vue 3 Weather as a Drupal component.'
+category: Vue
+presentation: vue
+add_js:
+  footer:
+    'dist/index.js': { attributes: { type: 'module'} }
+add_css:
+  footer:
+    component:
+      'dist/index.css': {}
