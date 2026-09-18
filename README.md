@@ -1,4 +1,7 @@
 # Building web applications with Vue.js
+
+_Blog posts: [Building Web Applications with Vue.js](https://www.herdmentality.xyz/blog/building-vue) · [Building and hosting Vue web apps on Drupal](https://www.herdmentality.xyz/blog/vue-and-drupal)_
+
 This code is for the "Building web applications with Vue.js" presentation.
 
 1. `vue-deno-simple` - created using [Deno](https://deno.com) as per [this tutorial](https://docs.deno.com/examples/vue_tutorial/).
